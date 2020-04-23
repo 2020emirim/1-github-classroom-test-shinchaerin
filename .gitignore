@@ -268,3 +268,9 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 **/migrations/
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/tutorial.iml
+.idea/vcs.xml
